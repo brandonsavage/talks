@@ -1,6 +1,5 @@
 #Better Quality Through Code Review
 
-
 ##Short Description
 Most developers recognize the value of code reviews, but making a code review process effective can be really difficult. Maybe you have a nitpicker on your team, or perhaps time constraints kill the review process early on in the cycle. Whatever the reason you're struggling, learn how you can make your code review process work better, improve the quality of your applications, and even improve the morale of your team!
 
